@@ -1,0 +1,15 @@
+{"ts": "2026-09-05T04:51:22.160074+00:00", "event": "startup", "env": "development"}
+{"ts": "2026-09-05T04:53:50.744562+00:00", "event": "analyze", "request_id": "8e4b545a-f7fb-4d4d-bfaf-339ce47f7dab", "modality": "chest_xray", "file": "2f73b8081892:1a9618030b218734", "model_mode": "imagenet_demo", "primary": "Pneumonia", "latency_ms": 2693.1}
+{"ts": "2026-09-05T04:54:53.641847+00:00", "event": "analyze", "request_id": "e81196c1-9449-403d-a377-c30566cffd75", "modality": "chest_xray", "file": "0906b245ceea:1a9618030b218734", "model_mode": "imagenet_demo", "primary": "Pneumonia", "latency_ms": 925.6}
+{"ts": "2026-09-05T04:56:39.585478+00:00", "event": "analyze", "request_id": "4064990c-8692-4393-8838-f8057c1bbf48", "modality": "brain_mri", "file": "2f73b8081892:c8cbc3fdbf3a9246", "model_mode": "imagenet_demo", "primary": "notumor", "latency_ms": 3593.2}
+{"ts": "2026-09-05T04:57:32.242164+00:00", "event": "analyze", "request_id": "201df63a-37a4-4fea-915d-f68f23452573", "modality": "brain_mri", "file": "b685e1bc7f18:c8cbc3fdbf3a9246", "model_mode": "imagenet_demo", "primary": "notumor", "latency_ms": 1124.9}
+{"ts": "2026-09-05T05:00:11.951398+00:00", "event": "analyze", "request_id": "075ef096-ccb1-496c-929a-b29625e0f0f4", "modality": "brain_mri", "file": "7d8d1d1d1038:b44a3ab17018d23d", "model_mode": "imagenet_demo", "primary": "glioma", "latency_ms": 1092.3}
+{"ts": "2026-09-05T05:00:35.583633+00:00", "event": "analyze", "request_id": "90743d46-6029-4b78-93de-d905fb60faaa", "modality": "chest_xray", "file": "0906b245ceea:1a9618030b218734", "model_mode": "imagenet_demo", "primary": "Pneumonia", "latency_ms": 1023.8}
+{"ts": "2026-09-05T05:43:49.812960+00:00", "event": "startup", "env": "development"}
+{"ts": "2026-09-05T05:46:42.627944+00:00", "event": "startup", "env": "development"}
+{"ts": "2026-09-05T05:47:44.775448+00:00", "event": "startup", "env": "development"}
+{"ts": "2026-09-05T05:51:12.100188+00:00", "event": "analyze", "request_id": "c7201f25-d394-47a1-a2d5-a14459573fb8", "modality": "brain_mri", "file": "d1fc556f6123:b44a3ab17018d23d", "model_mode": "imagenet_demo", "primary": "notumor", "latency_ms": 850.5}
+{"ts": "2026-09-05T05:51:29.121107+00:00", "event": "analyze", "request_id": "bc4ce066-5caf-4015-9366-7c1c3c98a6f8", "modality": "brain_mri", "file": "b685e1bc7f18:c8cbc3fdbf3a9246", "model_mode": "imagenet_demo", "primary": "notumor", "latency_ms": 362.3}
+{"ts": "2026-09-05T13:58:55.701434+00:00", "event": "startup", "env": "development"}
+{"ts": "2026-09-05T14:06:53.793177+00:00", "event": "analyze", "request_id": "bc65b081-2f20-4e10-a973-d885b17397b6", "modality": "chest_xray", "file": "0906b245ceea:1a9618030b218734", "model_mode": "imagenet_demo", "primary": "Pneumonia", "latency_ms": 1826.9}
+{"ts": "2026-09-05T14:07:02.766645+00:00", "event": "analyze", "request_id": "b5bcb666-bbb2-4705-9f2b-c0df616e537e", "modality": "brain_mri", "file": "b685e1bc7f18:c8cbc3fdbf3a9246", "model_mode": "imagenet_demo", "primary": "pituitary", "latency_ms": 1427.4}

@@ -1,0 +1,3 @@
+{"labels": {"Pneumonia": 1, "Effusion": 1}, "report": "There is a right-sided pleural effusion. Patchy opacity in the right lower lobe is consistent with pneumonia."}
+{"labels": {"Cardiomegaly": 1}, "report": "The cardiac silhouette is enlarged. No focal consolidation or pneumothorax is identified."}
+{"labels": {}, "report": "The lungs are clear. Heart size is normal. No acute cardiopulmonary process."}
